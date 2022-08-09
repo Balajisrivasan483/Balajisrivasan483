@@ -2,7 +2,7 @@ Hola!!! you are on Balaji's space
 Sharepoint, Microsoft365, java script,html,react..
 REACT,sharepoint,javascript,html
 Sharepoint
-balajisrinivasan@gmail.com
+balajisrinivasanengr@gmail.com
 
 <!---
 Balajisrivasan483/Balajisrivasan483 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
